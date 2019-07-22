@@ -1,0 +1,11 @@
+
+th, td {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid black;
+}
+
+th{
+    background-color: #4B99AD;
+    color: white 
+}
